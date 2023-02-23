@@ -1,0 +1,45 @@
+img {
+   margin: auto 0 !important;
+}
+
+.container-fluid {
+   align-items: center;
+   display: flex;
+   margin: auto;
+   
+ 
+}
+
+
+.portfolio {
+   align-items: center;
+
+   
+}
+
+
+.box-container-fluid {
+   display: flex;
+   position: relative;
+   flex-direction: row;
+margin: 30px;
+}
+
+
+
+.text {
+   font-size: 1rem;
+   color: #fff;
+   margin-bottom: 1rem;
+   font-size: regular;
+   text-align: left;
+   margin: 5%;
+
+}
+
+
+.sub {
+   color: #fff;
+   text-align: left;
+   margin: 5%;
+} 
